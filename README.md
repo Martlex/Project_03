@@ -22,6 +22,10 @@ $ pip3 --version                    # check manager version
 $ pip install -r requirements.txt   # packages installation
 
 
+### Project Prerequisites
+
+In order to successfully create the output (csv) file, you need to have the 'parties.json' file in the directory where the program 'election_scraper.py' is placed, which contains the names of the political parties running for office.
+
 ### Project Execution
 
 Execution of the file election_scraper.py requires two mandatory arguments on the command line:
