@@ -1,0 +1,20 @@
+"filename", "language", "Python", "Markdown", "pip requirements", "CSV", "comment", "blank", "total"
+"d:\Engeto\Project_03\1st_level_w_scarping.py", "Python", 143, 0, 0, 0, 20, 49, 212
+"d:\Engeto\Project_03\README.md", "Markdown", 0, 23, 0, 0, 0, 23, 46
+"d:\Engeto\Project_03\ele_scraper.py", "Python", 18, 0, 0, 0, 22, 15, 55
+"d:\Engeto\Project_03\election_scraper.py", "Python", 297, 0, 0, 0, 66, 107, 470
+"d:\Engeto\Project_03\final_w_scarping.py", "Python", 227, 0, 0, 0, 50, 77, 354
+"d:\Engeto\Project_03\jednotlive_obce.py", "Python", 62, 0, 0, 0, 8, 21, 91
+"d:\Engeto\Project_03\mock1.py", "Python", 7, 0, 0, 0, 1, 2, 10
+"d:\Engeto\Project_03\original_project_3.py", "Python", 48, 0, 0, 0, 38, 32, 118
+"d:\Engeto\Project_03\pokus_sys.py", "Python", 2, 0, 0, 0, 2, 4, 8
+"d:\Engeto\Project_03\povinny_argument.py", "Python", 11, 0, 0, 0, 3, 7, 21
+"d:\Engeto\Project_03\project_3.py", "Python", 48, 0, 0, 0, 38, 32, 118
+"d:\Engeto\Project_03\prvni_argument.py", "Python", 2, 0, 0, 0, 1, 2, 5
+"d:\Engeto\Project_03\requirements.txt", "pip requirements", 0, 0, 23, 0, 0, 0, 23
+"d:\Engeto\Project_03\tempCodeRunnerFile.py", "Python", 1, 0, 0, 0, 12, 2, 15
+"d:\Engeto\Project_03\test_1.csv", "CSV", 0, 0, 0, 79, 0, 1, 80
+"d:\Engeto\Project_03\test_2.csv", "CSV", 0, 0, 0, 79, 0, 1, 80
+"d:\Engeto\Project_03\web_scarping.py", "Python", 10, 0, 0, 0, 8, 18, 36
+"d:\Engeto\Project_03\web_scr.py", "Python", 49, 0, 0, 0, 1, 18, 68
+"Total", "-", 925, 23, 23, 158, 270, 411, 1810

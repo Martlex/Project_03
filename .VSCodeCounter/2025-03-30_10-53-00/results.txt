@@ -1,0 +1,45 @@
+Date : 2025-03-30 10:53:00
+Directory : d:\Engeto\Project_03
+Total : 18 files,  1129 codes, 270 comments, 411 blanks, all 1810 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Python           |         14 |        925 |        270 |        386 |      1,581 |
+| CSV              |          2 |        158 |          0 |          2 |        160 |
+| Markdown         |          1 |         23 |          0 |         23 |         46 |
+| pip requirements |          1 |         23 |          0 |          0 |         23 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------+------------+------------+------------+------------+------------+
+| path                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------+------------+------------+------------+------------+------------+
+| .                                            |         18 |      1,129 |        270 |        411 |      1,810 |
++----------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                     | language         | code       | comment    | blank      | total      |
++----------------------------------------------+------------------+------------+------------+------------+------------+
+| d:\Engeto\Project_03\1st_level_w_scarping.py | Python           |        143 |         20 |         49 |        212 |
+| d:\Engeto\Project_03\README.md               | Markdown         |         23 |          0 |         23 |         46 |
+| d:\Engeto\Project_03\ele_scraper.py          | Python           |         18 |         22 |         15 |         55 |
+| d:\Engeto\Project_03\election_scraper.py     | Python           |        297 |         66 |        107 |        470 |
+| d:\Engeto\Project_03\final_w_scarping.py     | Python           |        227 |         50 |         77 |        354 |
+| d:\Engeto\Project_03\jednotlive_obce.py      | Python           |         62 |          8 |         21 |         91 |
+| d:\Engeto\Project_03\mock1.py                | Python           |          7 |          1 |          2 |         10 |
+| d:\Engeto\Project_03\original_project_3.py   | Python           |         48 |         38 |         32 |        118 |
+| d:\Engeto\Project_03\pokus_sys.py            | Python           |          2 |          2 |          4 |          8 |
+| d:\Engeto\Project_03\povinny_argument.py     | Python           |         11 |          3 |          7 |         21 |
+| d:\Engeto\Project_03\project_3.py            | Python           |         48 |         38 |         32 |        118 |
+| d:\Engeto\Project_03\prvni_argument.py       | Python           |          2 |          1 |          2 |          5 |
+| d:\Engeto\Project_03\requirements.txt        | pip requirements |         23 |          0 |          0 |         23 |
+| d:\Engeto\Project_03\tempCodeRunnerFile.py   | Python           |          1 |         12 |          2 |         15 |
+| d:\Engeto\Project_03\test_1.csv              | CSV              |         79 |          0 |          1 |         80 |
+| d:\Engeto\Project_03\test_2.csv              | CSV              |         79 |          0 |          1 |         80 |
+| d:\Engeto\Project_03\web_scarping.py         | Python           |         10 |          8 |         18 |         36 |
+| d:\Engeto\Project_03\web_scr.py              | Python           |         49 |          1 |         18 |         68 |
+| Total                                        |                  |      1,129 |        270 |        411 |      1,810 |
++----------------------------------------------+------------------+------------+------------+------------+------------+
